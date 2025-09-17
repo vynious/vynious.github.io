@@ -2,12 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+title: Hello Stranger # the website title (if blank, full name will be used instead)
+first_name: Shawn
+# middle_name: 
+last_name: Thiah
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  - shawnthiah@gmail.com
+  - https://www.linkedin.com/in/shawn-thiah/
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -144,12 +145,12 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  books:
-    output: true
-  news:
-    defaults:
-      layout: post
-    output: true
+  # books:
+  #   output: true
+  # news:
+  #   defaults:
+  #     layout: post
+  #   output: true
   projects:
     output: true
 
