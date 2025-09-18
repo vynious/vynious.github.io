@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Software Engineer</a>. Systems Builder. Low-Level Enthusiast.
+subtitle: <a href='#'>Software Engineer</a>.
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: true
   more_info: >
     <p>shawnthiah [at] gmail [dot] com</p>
-    <p> Singapore Management University</p>
+    <p>Singapore Management University</p>
     <p>Singapore • Milan (Exchange)</p>
 
 selected_papers: true
