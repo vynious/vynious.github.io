@@ -205,6 +205,13 @@ ul.task-list input[type="checkbox"] {
       margin: 0;
     }
   }
+
+  img {
+    max-width: 100%;
+    height: auto;
+    aspect-ratio: 3 / 4;
+    object-fit: cover;
+  }
 }
 
 .profile.float-right {
