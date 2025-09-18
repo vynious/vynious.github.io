@@ -16,9 +16,12 @@ profile:
 selected_papers: true
 social: true
 ---
-
 Hi, I'm **Shawn Thiah** — a software engineer interested in **low-level programming, optimization, and building high-performance systems**.  
 
 Outside of code, I'm passionate about **photography, travel, and tinkering** with new tools — I like exploring ideas the same way I explore cities: by wandering, experimenting, and connecting the dots.  
 
 ---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coding Cat" width="60%" height="325px">
+</div>

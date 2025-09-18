@@ -6,8 +6,6 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Shawn
 last_name: Thiah
 contact_note: >
-  - shawnthiah@gmail.com
-  - https://www.linkedin.com/in/shawn-thiah/
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🍣 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
