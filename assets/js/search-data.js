@@ -7,81 +7,70 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/al-folio/";
+      window.location.href = "/";
     },
   },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/blog/";
+            window.location.href = "/blog/";
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "things i&#39;ve tried to cook in the past...",
+          description: "the kitchen where i attempt to cook",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/projects/";
+            window.location.href = "/projects/";
           },
         },{id: "nav-cv",
           title: "cv",
           description: "please hire me :,)",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/cv/";
+            window.location.href = "/cv/";
           },
-        },{id: "post-a-post-with-custom-blockquotes",
+        },{id: "post-maximizing-client-throughput-async-vs-threads-adaptive-rate-limiting-and-queue-resilience",
         
-          title: "a post with custom blockquotes",
+          title: "Maximizing Client Throughput — Async vs Threads, Adaptive Rate Limiting, and Queue Resilience...",
         
-        description: "an example of a blog post with custom blockquotes",
+        description: "Review and optimization of a high-throughput Python client under server rate limits — benchmarking, adaptive buffering, DLQ, and async vs threading trade-offs.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2023/custom-blockquotes/";
-          
-        },
-      },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
-        
-          title: "a post with table of contents on a sidebar",
-        
-        description: "an example of a blog post with table of contents on a sidebar",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/al-folio/blog/2023/sidebar-table-of-contents/";
+            window.location.href = "/blog/2025/optimise-throughput/";
           
         },
       },{id: "projects-crypto-tracker",
           title: 'crypto tracker',
           description: "crypto portfolio tracker",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/crypto_tracker/";
+              window.location.href = "/projects/crypto_tracker/";
             },},{id: "projects-go-travel",
           title: 'go travel',
           description: "travel diary app",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/go_travel/";
+              window.location.href = "/projects/go_travel/";
             },},{id: "projects-gym-daddy",
           title: 'gym daddy',
           description: "virtual queuing + class booking for busy gyms",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/gym_daddy/";
+              window.location.href = "/projects/gym_daddy/";
             },},{id: "projects-loyalty-point-system",
           title: 'loyalty point system',
           description: "serverless multi-tenancy system for loyalty points tracking",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/loyalty_point_system/";
+              window.location.href = "/projects/loyalty_point_system/";
             },},{id: "projects-match-maker",
           title: 'match maker',
           description: "tournament management system",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/match_maker/";
+              window.location.href = "/projects/match_maker/";
             },},{id: "projects-spare-net",
           title: 'spare net',
           description: "p2p networking sharing",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/spare_net/";
+              window.location.href = "/projects/spare_net/";
             },},{
         id: 'social-email',
         title: 'email',
@@ -108,7 +97,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("/al-folio/feed.xml", "_blank");
+          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
