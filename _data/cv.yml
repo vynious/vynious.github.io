@@ -3,38 +3,34 @@
   contents:
     - title: BSc - Software Engineering (Second Major in Product Development)
       institution: Singapore Management University, Singapore
-      year: Aug. 2022 – July 2026
-      description:
-        - Developer for SMU Blockchain and SMU Fintech
-        - Data Associate Programme Mentee
-        - Relevant Modules: Computational Thinking, Operating Systems and Networking, IT Solution Architecture, Web Application Development, Enterprise Solution Development, Advanced Programming Design
+      year: Aug. 22 - July 26
 
 - title: Working Experiences
   type: time_table
   contents:
     - title: Software Engineer Intern
       institution: Apple
-      year: Jan. 2025 – July 2025
+      year: Jan. 25 - July 25
       description:
         - Delivered an end-to-end, LLM-driven Static Application Security Testing (SAST) platform to eliminate alert fatigue at scale.
         - Containerized a multi-stage analysis pipeline (call-graph traversal → regex pruning → RAG-style LLM reasoning) and shipped it via CI/CD to a microservice cluster.
         - Reduced SAST false positives by 97% and shrank mean triage time by 90%.
     - title: Software Engineer Intern
       institution: Switcheo Labs
-      year: May 2024 – Dec. 2024
+      year: May 24 - Dec. 24
       description:
         - Enhanced trading engine components (liquidation engine, perpetual markets, insurance fund management) improving on-chain liquidity management.
         - Extended trading-bot framework with fuzz-testing harnesses for idempotency and stability across concurrent trading scenarios.
         - Implemented gRPC APIs for trading activities.
     - title: Software Engineer Intern
       institution: Custory
-      year: Jan. 2024 – Apr. 2024
+      year: Jan. 24 - Apr. 24
       description:
         - Improved backend performance with Redis caching middleware and database normalization for efficient concurrency.
         - Optimized cloud media storage with Amazon S3 for scalable asset management.
     - title: Software Engineer Intern
       institution: Lumens
-      year: Jun. 2023 – Aug. 2023
+      year: Jun. 23 - Aug. 23
       description:
         - Developed backend for a centralized employee management system for in-house PHV drivers.
         - Implemented onboarding flow using a Python Telegram bot integrated with the admin system.
@@ -43,7 +39,7 @@
   type: time_table
   contents:
     - title: spare-net
-      year: 2024 – present
+      year: 2024
       items: 
         - Peer-to-peer resource sharing system in Rust with QUIC/TLS, mDNS peer discovery, and CLI for end-to-end verification.
         - <a href="https://github.com/vynious/spare-net">GitHub</a>

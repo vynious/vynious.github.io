@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Software Engineer</a>.
+subtitle: Software Engineer
 
 profile:
   align: right
   image: shawn_dp.jpg
-  image_circular: true
+  image_circular: false
   more_info: >
-    <p>shawnthiah [at] gmail [dot] com</p>
+    <p>shawnthiah.gmail.com</p>
     <p>Singapore Management University</p>
     <p>Singapore • Milan (Exchange)</p>
 
