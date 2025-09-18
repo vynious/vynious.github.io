@@ -23,5 +23,5 @@ Outside of code, I'm passionate about **photography, travel, and tinkering** wit
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coding Cat" width="60%" height="325px">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coding Cat" width="60%" height="340px">
 </div>

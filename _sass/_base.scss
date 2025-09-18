@@ -205,12 +205,16 @@ ul.task-list input[type="checkbox"] {
       margin: 0;
     }
   }
+}
 
-  img {
-    max-width: 100%;
+// Force portrait crop for profile image on small screens only
+@media (max-width: 575.98px) {
+  .profile img {
+    width: 100%;
     height: auto;
     aspect-ratio: 3 / 4;
     object-fit: cover;
+    object-position: center;
   }
 }
 
