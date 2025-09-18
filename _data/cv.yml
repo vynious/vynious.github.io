@@ -13,27 +13,21 @@
       year: Jan. 25 - July 25
       description:
         - Delivered an end-to-end, LLM-driven Static Application Security Testing (SAST) platform to eliminate alert fatigue at scale.
-        - Containerized a multi-stage analysis pipeline (call-graph traversal → regex pruning → RAG-style LLM reasoning) and shipped it via CI/CD to a microservice cluster.
-        - Reduced SAST false positives by 97% and shrank mean triage time by 90%.
     - title: Software Engineer Intern
       institution: Switcheo Labs
       year: May 24 - Dec. 24
       description:
         - Enhanced trading engine components (liquidation engine, perpetual markets, insurance fund management) improving on-chain liquidity management.
-        - Extended trading-bot framework with fuzz-testing harnesses for idempotency and stability across concurrent trading scenarios.
-        - Implemented gRPC APIs for trading activities.
     - title: Software Engineer Intern
       institution: Custory
       year: Jan. 24 - Apr. 24
       description:
         - Improved backend performance with Redis caching middleware and database normalization for efficient concurrency.
-        - Optimized cloud media storage with Amazon S3 for scalable asset management.
     - title: Software Engineer Intern
       institution: Lumens
       year: Jun. 23 - Aug. 23
       description:
         - Developed backend for a centralized employee management system for in-house PHV drivers.
-        - Implemented onboarding flow using a Python Telegram bot integrated with the admin system.
 
 - title: Project Experiences
   type: time_table
@@ -47,13 +41,10 @@
       year: 2023
       items: 
         - Built a serverless multi-tenant loyalty system in Golang using AWS SAM, Cognito, and RDS for RBAC and federated identity management.
-        - Designed a secure 2-step transaction process with AWS SES for admin approvals.
     - title: gym-daddy
       year: 2023
       items: 
-        - Microservice ecosystem in Golang with Kafka, gRPC, Redis, and Docker for real-time gym management.
-        - High-throughput data processing pipeline with centralized Protobuf schema repository.
-        - Automated deployment and monitoring with Grafana, Prometheus, and Bash scripts.
+        - Microservice ecosystem in Golang with Kafka, gRPC and Redis for real-time gym management.
         - <a href="https://github.com/vynious/gym-daddy-app">GitHub</a>
 
 - title: Main Skills
