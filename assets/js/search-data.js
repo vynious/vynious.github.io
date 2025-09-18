@@ -41,7 +41,12 @@ ninja.data = [{
             window.location.href = "/blog/2025/optimise-throughput/";
           
         },
-      },{id: "projects-crypto-tracker",
+      },{id: "projects-cafe-management-system",
+          title: 'cafe management system',
+          description: "full stack app for cafe resource management",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cafe_management/";
+            },},{id: "projects-crypto-tracker",
           title: 'crypto tracker',
           description: "crypto portfolio tracker",
           section: "Projects",handler: () => {
