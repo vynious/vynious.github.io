@@ -77,27 +77,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/spare_net/";
             },},{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%73%68%61%77%6E%74%68%69%61%68@%67%6D%61%69%6C.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/vynious", "_blank");
-        },
-      },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/shawn-thiah", "_blank");
-        },
-      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
