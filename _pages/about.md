@@ -6,7 +6,7 @@ subtitle: <a href='#'>Software Engineer</a>.
 
 profile:
   align: right
-  image: shawn_dp.jpg
+  image: shawn_dp.
   image_circular: true
   more_info: >
     <p>shawnthiah [at] gmail [dot] com</p>
