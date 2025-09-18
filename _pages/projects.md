@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: things i've tried to cook in the past...
+description: the kitchen where i attempt to cook
 nav: true
 nav_order: 3
 # display_categories: [work, fun]
